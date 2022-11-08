@@ -15,3 +15,4 @@ sudo systemctl start httpd
 #changing apache webpage content
 sudo chown -R $USER:$USER /usr/share/httpd/noindex/
 sudo echo Ivan Panas > /usr/share/httpd/noindex/index.html
+sudo systemctl restart httpd
