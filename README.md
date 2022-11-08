@@ -6,7 +6,7 @@ I've got ready script in my script.sh:
 
 $ bash script.sh
 
-![image](https://user-images.githubusercontent.com/91308486/200638822-f1c3315e-e181-4bb3-be13-c7a3c6b65158.png)
+![image](https://user-images.githubusercontent.com/91308486/200638822-f1c3315e-e181-4bb3-be13-c7a3c6b65158.png).....
 
 Result:
 
