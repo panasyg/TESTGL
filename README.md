@@ -1,7 +1,9 @@
 # TESTGL
 
 Hi there!
+
 OS:Centos7
+
 I've got ready script in my script.sh:
 
 $ bash script.sh
